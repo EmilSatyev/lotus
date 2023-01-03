@@ -9,7 +9,7 @@ const users = ["user1", "user2", "user3", "user4"];
 let countdown = {
   hours: 0,
   minutes: 2,
-  seconds: 10,
+  seconds: 0,
 };
 
 let secs =
