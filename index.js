@@ -4,7 +4,7 @@ const io = require("socket.io")(8000, {
   },
 });
 
-const users = ["user1", "user2", "user3"];
+const users = ["user1", "user2", "user3", "user4"];
 
 let countdown = {
   hours: 0,
